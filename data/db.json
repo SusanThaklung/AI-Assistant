@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "usr_1789977480409_kdm0iwc",
+      "username": "demo_user",
+      "email": "demo@example.com",
+      "passwordHash": "$2b$10$K6cY.G7xy4J.ljHNwyfW/Of0rpP3VL2cYROI/usFV7Aa7.wctM3dy",
+      "preferences": {
+        "theme": "light",
+        "voiceAutoSpeak": true,
+        "voiceMuted": false,
+        "language": "auto",
+        "enterToSend": true,
+        "showTimestamps": true,
+        "responseStyle": "balanced"
+      },
+      "createdAt": 1789977480409,
+      "updatedAt": 1789977480409
+    }
+  ],
+  "conversations": [
+    {
+      "id": "conv_1789977488774_433j24u",
+      "userId": "usr_1789977480409_kdm0iwc",
+      "title": "Physics & Calculus Study",
+      "createdAt": 1789977488774,
+      "updatedAt": 1789977488774
+    }
+  ],
+  "messages": [],
+  "searchHistory": [
+    {
+      "id": "srch_1789977492731_e5gvvyc",
+      "userId": "usr_1789977480409_kdm0iwc",
+      "query": "How do capacitors work in DC circuits?",
+      "createdAt": 1789977492731
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "NOVA - AI Study Companion",
+  "description": "A personal AI assistant and study companion with voice interaction, virtual anime character, coding mentorship, and multimodal learning support.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
